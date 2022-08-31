@@ -13,3 +13,4 @@ feelingToday = Console.ReadLine();
 
 Console.WriteLine($"{name} from class {klass} is feeling {feelingToday} today.");
 Console.ReadLine();
+
